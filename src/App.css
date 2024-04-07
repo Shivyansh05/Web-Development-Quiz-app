@@ -5,7 +5,6 @@
 }
 .wholecontainer{
   height:800px;
-  background-color: black;
   width:100%;
   padding-top:100px;
 }
@@ -19,12 +18,12 @@
   width: 100%;
 }*/
 .mainpageheading{
-  color:white;
+  color:black;
   width:350px;
   margin-left:38%;
 }
 .mainpageheading1{
-  color: white;
+  color: black;
   width:500px;
   margin-left:36%;
   margin-top:20px;
@@ -37,13 +36,15 @@
 }
 .javasc{
   border-radius: 40px;
+  background-color: black;
   padding:20px;
+  color:white;
   font-size: 30px;
   height:200px;
   margin-left:30px;
 }
 .javasc:hover{
-  background-color: aqua;
+  background-color: grey;
 }
 .container {
   display: flex;
@@ -164,7 +165,7 @@
   align-items: center;
   margin-left:23%;
   flex-direction: column;
-  min-height: 600px;
+  min-height: 650px;
   width: 800px;
   background-color: aquamarine;
   border-radius: 15px;
